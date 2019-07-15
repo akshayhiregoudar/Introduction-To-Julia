@@ -1,2 +1,2 @@
 # Introduction-To-Julia
-Basic introduction guide to get started with Julia programming language
+Basic introduction guide to get started with the Julia programming language.
